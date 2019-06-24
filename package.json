@@ -1,0 +1,27 @@
+{
+  "name": "btstrp",
+  "version": "1.0.0",
+  "description": "Oefening met bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eniciodehaas/btstrp.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Enicio de Haas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eniciodehaas/btstrp/issues"
+  },
+  "homepage": "https://github.com/eniciodehaas/btstrp#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
